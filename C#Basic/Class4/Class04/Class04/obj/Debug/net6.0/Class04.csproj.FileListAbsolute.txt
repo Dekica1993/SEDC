@@ -1,0 +1,15 @@
+C:\Users\Code\Desktop\DejanMladenov\Class4\Class04\Class04\bin\Debug\net6.0\Class04.exe
+C:\Users\Code\Desktop\DejanMladenov\Class4\Class04\Class04\bin\Debug\net6.0\Class04.deps.json
+C:\Users\Code\Desktop\DejanMladenov\Class4\Class04\Class04\bin\Debug\net6.0\Class04.runtimeconfig.json
+C:\Users\Code\Desktop\DejanMladenov\Class4\Class04\Class04\bin\Debug\net6.0\Class04.dll
+C:\Users\Code\Desktop\DejanMladenov\Class4\Class04\Class04\bin\Debug\net6.0\Class04.pdb
+C:\Users\Code\Desktop\DejanMladenov\Class4\Class04\Class04\obj\Debug\net6.0\Class04.csproj.AssemblyReference.cache
+C:\Users\Code\Desktop\DejanMladenov\Class4\Class04\Class04\obj\Debug\net6.0\Class04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code\Desktop\DejanMladenov\Class4\Class04\Class04\obj\Debug\net6.0\Class04.AssemblyInfoInputs.cache
+C:\Users\Code\Desktop\DejanMladenov\Class4\Class04\Class04\obj\Debug\net6.0\Class04.AssemblyInfo.cs
+C:\Users\Code\Desktop\DejanMladenov\Class4\Class04\Class04\obj\Debug\net6.0\Class04.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\DejanMladenov\Class4\Class04\Class04\obj\Debug\net6.0\Class04.dll
+C:\Users\Code\Desktop\DejanMladenov\Class4\Class04\Class04\obj\Debug\net6.0\refint\Class04.dll
+C:\Users\Code\Desktop\DejanMladenov\Class4\Class04\Class04\obj\Debug\net6.0\Class04.pdb
+C:\Users\Code\Desktop\DejanMladenov\Class4\Class04\Class04\obj\Debug\net6.0\Class04.genruntimeconfig.cache
+C:\Users\Code\Desktop\DejanMladenov\Class4\Class04\Class04\obj\Debug\net6.0\ref\Class04.dll

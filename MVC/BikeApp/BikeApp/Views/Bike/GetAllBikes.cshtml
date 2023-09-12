@@ -1,0 +1,12 @@
+﻿@using BikeApp.Models.ViewModels
+
+@model  List<BikeViewModel>
+
+<ol>
+    @for(int i = 0; i < @Model.Count; i++)
+    {
+        <p>@Model.ElementAt(i).Brand</p>
+       <p>@Model.ElementAt(i).BikeType</p>
+    }
+</ol>
+

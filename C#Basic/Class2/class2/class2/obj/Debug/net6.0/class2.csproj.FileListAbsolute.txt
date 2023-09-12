@@ -1,0 +1,15 @@
+C:\Users\Code\Desktop\DejanMladenov\Class2\class2\class2\bin\Debug\net6.0\class2.exe
+C:\Users\Code\Desktop\DejanMladenov\Class2\class2\class2\bin\Debug\net6.0\class2.deps.json
+C:\Users\Code\Desktop\DejanMladenov\Class2\class2\class2\bin\Debug\net6.0\class2.runtimeconfig.json
+C:\Users\Code\Desktop\DejanMladenov\Class2\class2\class2\bin\Debug\net6.0\class2.dll
+C:\Users\Code\Desktop\DejanMladenov\Class2\class2\class2\bin\Debug\net6.0\class2.pdb
+C:\Users\Code\Desktop\DejanMladenov\Class2\class2\class2\obj\Debug\net6.0\class2.csproj.AssemblyReference.cache
+C:\Users\Code\Desktop\DejanMladenov\Class2\class2\class2\obj\Debug\net6.0\class2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code\Desktop\DejanMladenov\Class2\class2\class2\obj\Debug\net6.0\class2.AssemblyInfoInputs.cache
+C:\Users\Code\Desktop\DejanMladenov\Class2\class2\class2\obj\Debug\net6.0\class2.AssemblyInfo.cs
+C:\Users\Code\Desktop\DejanMladenov\Class2\class2\class2\obj\Debug\net6.0\class2.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\DejanMladenov\Class2\class2\class2\obj\Debug\net6.0\class2.dll
+C:\Users\Code\Desktop\DejanMladenov\Class2\class2\class2\obj\Debug\net6.0\refint\class2.dll
+C:\Users\Code\Desktop\DejanMladenov\Class2\class2\class2\obj\Debug\net6.0\class2.pdb
+C:\Users\Code\Desktop\DejanMladenov\Class2\class2\class2\obj\Debug\net6.0\class2.genruntimeconfig.cache
+C:\Users\Code\Desktop\DejanMladenov\Class2\class2\class2\obj\Debug\net6.0\ref\class2.dll

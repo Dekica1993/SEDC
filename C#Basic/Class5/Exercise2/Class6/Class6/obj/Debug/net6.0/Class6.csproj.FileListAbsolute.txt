@@ -1,0 +1,15 @@
+C:\Users\Code\Desktop\DejanMladenov\Class5\Exercise2\Class6\Class6\bin\Debug\net6.0\Class6.exe
+C:\Users\Code\Desktop\DejanMladenov\Class5\Exercise2\Class6\Class6\bin\Debug\net6.0\Class6.deps.json
+C:\Users\Code\Desktop\DejanMladenov\Class5\Exercise2\Class6\Class6\bin\Debug\net6.0\Class6.runtimeconfig.json
+C:\Users\Code\Desktop\DejanMladenov\Class5\Exercise2\Class6\Class6\bin\Debug\net6.0\Class6.dll
+C:\Users\Code\Desktop\DejanMladenov\Class5\Exercise2\Class6\Class6\bin\Debug\net6.0\Class6.pdb
+C:\Users\Code\Desktop\DejanMladenov\Class5\Exercise2\Class6\Class6\obj\Debug\net6.0\Class6.csproj.AssemblyReference.cache
+C:\Users\Code\Desktop\DejanMladenov\Class5\Exercise2\Class6\Class6\obj\Debug\net6.0\Class6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code\Desktop\DejanMladenov\Class5\Exercise2\Class6\Class6\obj\Debug\net6.0\Class6.AssemblyInfoInputs.cache
+C:\Users\Code\Desktop\DejanMladenov\Class5\Exercise2\Class6\Class6\obj\Debug\net6.0\Class6.AssemblyInfo.cs
+C:\Users\Code\Desktop\DejanMladenov\Class5\Exercise2\Class6\Class6\obj\Debug\net6.0\Class6.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\DejanMladenov\Class5\Exercise2\Class6\Class6\obj\Debug\net6.0\Class6.dll
+C:\Users\Code\Desktop\DejanMladenov\Class5\Exercise2\Class6\Class6\obj\Debug\net6.0\refint\Class6.dll
+C:\Users\Code\Desktop\DejanMladenov\Class5\Exercise2\Class6\Class6\obj\Debug\net6.0\Class6.pdb
+C:\Users\Code\Desktop\DejanMladenov\Class5\Exercise2\Class6\Class6\obj\Debug\net6.0\Class6.genruntimeconfig.cache
+C:\Users\Code\Desktop\DejanMladenov\Class5\Exercise2\Class6\Class6\obj\Debug\net6.0\ref\Class6.dll

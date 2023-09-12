@@ -1,0 +1,14 @@
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\OldWayProject\bin\Debug\netcoreapp3.1\OldWayProject.exe
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\OldWayProject\bin\Debug\netcoreapp3.1\OldWayProject.deps.json
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\OldWayProject\bin\Debug\netcoreapp3.1\OldWayProject.runtimeconfig.json
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\OldWayProject\bin\Debug\netcoreapp3.1\OldWayProject.runtimeconfig.dev.json
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\OldWayProject\bin\Debug\netcoreapp3.1\OldWayProject.dll
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\OldWayProject\bin\Debug\netcoreapp3.1\OldWayProject.pdb
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\OldWayProject\obj\Debug\netcoreapp3.1\OldWayProject.csproj.AssemblyReference.cache
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\OldWayProject\obj\Debug\netcoreapp3.1\OldWayProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\OldWayProject\obj\Debug\netcoreapp3.1\OldWayProject.AssemblyInfoInputs.cache
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\OldWayProject\obj\Debug\netcoreapp3.1\OldWayProject.AssemblyInfo.cs
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\OldWayProject\obj\Debug\netcoreapp3.1\OldWayProject.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\OldWayProject\obj\Debug\netcoreapp3.1\OldWayProject.dll
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\OldWayProject\obj\Debug\netcoreapp3.1\OldWayProject.pdb
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\OldWayProject\obj\Debug\netcoreapp3.1\OldWayProject.genruntimeconfig.cache

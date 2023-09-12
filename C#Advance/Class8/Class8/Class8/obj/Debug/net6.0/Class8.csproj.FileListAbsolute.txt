@@ -1,0 +1,15 @@
+C:\Users\Code\Desktop\DejanMladenov\C#Advance\Class8\Class8\Class8\bin\Debug\net6.0\Class8.exe
+C:\Users\Code\Desktop\DejanMladenov\C#Advance\Class8\Class8\Class8\bin\Debug\net6.0\Class8.deps.json
+C:\Users\Code\Desktop\DejanMladenov\C#Advance\Class8\Class8\Class8\bin\Debug\net6.0\Class8.runtimeconfig.json
+C:\Users\Code\Desktop\DejanMladenov\C#Advance\Class8\Class8\Class8\bin\Debug\net6.0\Class8.dll
+C:\Users\Code\Desktop\DejanMladenov\C#Advance\Class8\Class8\Class8\bin\Debug\net6.0\Class8.pdb
+C:\Users\Code\Desktop\DejanMladenov\C#Advance\Class8\Class8\Class8\obj\Debug\net6.0\Class8.csproj.AssemblyReference.cache
+C:\Users\Code\Desktop\DejanMladenov\C#Advance\Class8\Class8\Class8\obj\Debug\net6.0\Class8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code\Desktop\DejanMladenov\C#Advance\Class8\Class8\Class8\obj\Debug\net6.0\Class8.AssemblyInfoInputs.cache
+C:\Users\Code\Desktop\DejanMladenov\C#Advance\Class8\Class8\Class8\obj\Debug\net6.0\Class8.AssemblyInfo.cs
+C:\Users\Code\Desktop\DejanMladenov\C#Advance\Class8\Class8\Class8\obj\Debug\net6.0\Class8.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\DejanMladenov\C#Advance\Class8\Class8\Class8\obj\Debug\net6.0\Class8.dll
+C:\Users\Code\Desktop\DejanMladenov\C#Advance\Class8\Class8\Class8\obj\Debug\net6.0\refint\Class8.dll
+C:\Users\Code\Desktop\DejanMladenov\C#Advance\Class8\Class8\Class8\obj\Debug\net6.0\Class8.pdb
+C:\Users\Code\Desktop\DejanMladenov\C#Advance\Class8\Class8\Class8\obj\Debug\net6.0\Class8.genruntimeconfig.cache
+C:\Users\Code\Desktop\DejanMladenov\C#Advance\Class8\Class8\Class8\obj\Debug\net6.0\ref\Class8.dll

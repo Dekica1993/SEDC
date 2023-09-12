@@ -1,0 +1,12 @@
+﻿@using BikeApp.Models.Domain
+@using BikeApp.Models.ViewModels
+
+@model List<BikeViewModel>
+
+<h2>All Bikes With Hydraulic Breaks</h2>
+<ol>
+    @for(int i = 0; i < @Model.Count; i++)
+    {
+        <ol>@Model.ElementAt(i).HasHydraulicBreaks</ol>
+    }
+</ol>

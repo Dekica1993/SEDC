@@ -1,0 +1,15 @@
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\MyNewProject\bin\Debug\net6.0\MyNewProject.exe
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\MyNewProject\bin\Debug\net6.0\MyNewProject.deps.json
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\MyNewProject\bin\Debug\net6.0\MyNewProject.runtimeconfig.json
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\MyNewProject\bin\Debug\net6.0\MyNewProject.dll
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\MyNewProject\bin\Debug\net6.0\MyNewProject.pdb
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.csproj.AssemblyReference.cache
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.AssemblyInfoInputs.cache
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.AssemblyInfo.cs
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.dll
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\MyNewProject\obj\Debug\net6.0\refint\MyNewProject.dll
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.pdb
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.genruntimeconfig.cache
+C:\Users\Code\Desktop\DejanMladenov\Class1\OurFirstSolution\MyNewProject\obj\Debug\net6.0\ref\MyNewProject.dll

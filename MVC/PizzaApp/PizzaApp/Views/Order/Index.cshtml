@@ -1,0 +1,14 @@
+﻿@using PizzaApp.Models.ViewModels
+
+@model List<OrderViewModel>
+
+
+<ol>
+    @foreach (OrderViewModel viewModel in @Model)
+    {
+        <li>@viewModel.PizzaName - @viewModel.FullName - @viewModel.Price</li>
+
+        <a asp-action="Details" asp-route-Id="@viewModel.Id">See Details</a>
+    }
+</ol>
+
